@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘聖無量壽決定光明王如來陀羅尼經
+#+DATE: 2015-08-30 20:26:02.047102
+#+PROPERTY: JUAN 0
